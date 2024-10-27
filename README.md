@@ -1,7 +1,7 @@
 # Open3D-Railway-Teaching
 Teaching using the Open3D railway project
 
-#*“Building an Automated, Modular Model Railway”*
+*“Building an Automated, Modular Model Railway”*
 
 ## Project Description
 Imagine a large-scale model railway that operates with precision: locomotives gliding along tracks, adjusting their speeds, stopping at just the right places, and even communicating their locations—all without human intervention. In this project, you’ll get the chance to build exactly that: a fully automated railway system that you design and control through your own code.
