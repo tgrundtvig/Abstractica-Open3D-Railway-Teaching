@@ -15,6 +15,7 @@ With the code you’ll write, trains will follow commands embedded along the tra
 - **Code Bricks and Microswitch Triggers**: These 3D-printed code bricks include small raised sections that trigger microswitches mounted underneath the train, initiating specific actions or tracking the train’s position to a central server.
 
 ## What You’ll Be Learning
+- **3D Printing**: 3D Printing: 3D printing is set to become a key production method. Learn to design objects optimized for 3D printing, overcome structural challenges, and create strong, functional components that bring your designs to life.
 - **Java Programming**: You’ll dive into advanced Java concepts essential for building a modular and automated system:
   - **Composition Over Inheritance**: Learn how to structure complex objects using composition, making each part of the system modular and adaptable to various needs.
   - **Polymorphism with Interfaces**: Use interfaces to establish flexible type hierarchies, enabling different components to interact seamlessly and supporting adaptable, reusable behavior.
