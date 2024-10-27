@@ -1,5 +1,5 @@
 # Open3D-Railway-Teaching
-Teaching IoT, Robotics and Automation using the Open3D railway project
+Teaching IoT, Robotics and Automation using the Abstractica Open3D Railway Project
 
 # *“Building an Automated, Modular Model Railway”*
 
