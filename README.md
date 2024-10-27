@@ -12,7 +12,7 @@ With the code you’ll write, trains will follow commands embedded along the tra
 - **3D-Printed Modular System**: Construct your railway from reusable, 3D-printed parts using an interlocking modular system. Java-based Constructive Solid Geometry (CSG) techniques will allow you to design custom track elements, switches, and code bricks to fit the specific needs of your project.
 - **Train Motorized Bogies**: Motorized boogies, powered by TT motors, will provide the train's movement, allowing you to control speed and direction as your trains respond to code bricks and commands.
 - **ESP32 Microcontroller and C++ Programming**: Acting as the “brain” of the train, the ESP32 microcontroller runs code written in C++ to handle train actions and wireless communication, giving you hands-on experience with embedded programming.
-- **Code Bricks with Microswitch Triggers**: These 3D-printed code bricks include small raised sections that trigger microswitches mounted underneath the train, initiating specific actions or tracking the train’s position to a central server.
+- **Code Bricks and Microswitch Triggers**: These 3D-printed code bricks include small raised sections that trigger microswitches mounted underneath the train, initiating specific actions or tracking the train’s position to a central server.
 
 ## What You’ll Be Learning
 - **Java Programming**: You’ll dive into advanced Java concepts essential for building a modular and automated system:
