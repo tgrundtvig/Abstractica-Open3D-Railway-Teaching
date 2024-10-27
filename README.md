@@ -1,7 +1,7 @@
 # Open3D-Railway-Teaching
 Teaching IoT, Robotics and Automation using the Open3D railway project
 
-# Project Title: *“Building an Automated, Modular Model Railway”*
+*“Building an Automated, Modular Model Railway”*
 
 ## Project Description
 Step into the world of automation and modular design by building a model railway that’s as adaptable as it is intelligent. In this project, you’ll use 3D-printed, reusable components—including tracks, switches, wagons, and code bricks—to create a functional railway system. Each piece interlocks, allowing endless customization and flexibility to match your design and programming goals.
