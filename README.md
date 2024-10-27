@@ -27,7 +27,7 @@ With the code you’ll write, trains will follow commands embedded along the tra
 - **C++ Programming for Embedded Systems**: You’ll gain experience programming the ESP32 microcontroller in C++, directly interacting with hardware to control train movement, sensor input, and communication functions.
 
 ### Project-Oriented Learning with Flexibility
-This elective is designed to be highly project-oriented, giving you the freedom to focus on the areas and technologies that interest you most. You are not expected to master every aspect of the project; instead, you can concentrate on a specific functionality, whether that’s in Java programming, electronics, networking, or embedded systems. This independent approach allows you to gain a deep understanding of selected technologies while contributing to a project that continues to grow with input from future students.
+This elective is designed to be highly project-oriented, giving you the freedom to focus on the areas and technologies that interest you most. You are not expected to master every aspect of the project; instead, you can concentrate on a specific functionality, whether that’s in Java programming, electronics, networking, or embedded systems. This independent approach allows you to gain a deep understanding of your selected technologies while contributing to a project that continues to grow with input from future students.
 
 ### Building on a Strong Foundation
 The project already has a foundational framework in place, allowing you to dive straight into advanced tasks and make meaningful contributions to the railway system. While it may not be feasible to complete every feature within the project timeframe, your work will have lasting impact, benefiting the ongoing development of the system and future students who work with it.
@@ -39,3 +39,5 @@ Additionally, this project provides valuable preparation for the independence ex
 Unlike many coding projects, where results remain confined to a screen, this railway system brings your code to life. When you program a train to change speeds, stop, or report its position, you’ll see it happen in real-time. This instant, physical feedback makes programming more exciting and tangible, reinforcing what you’ve learned in a real-world application. Beyond the fun of building and controlling trains, this project introduces you to automation principles widely used in manufacturing, logistics, and IoT.
 
 In this project, you’re not just building a train—you’re creating a modular, automated system where every component can be adapted for new applications. If you’re ready to move beyond traditional coding and see your ideas operate in real time, this project offers a unique opportunity to explore programming, electronics, and creativity in action.
+
+##### This document was created in close coorporation with ChatGPT 4o
