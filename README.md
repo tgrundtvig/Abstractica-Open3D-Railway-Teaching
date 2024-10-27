@@ -40,4 +40,4 @@ Unlike many coding projects, where results remain confined to a screen, this rai
 
 In this project, you’re not just building a train—you’re creating a modular, automated system where every component can be adapted for new applications. If you’re ready to move beyond traditional coding and see your ideas operate in real time, this project offers a unique opportunity to explore programming, electronics, and creativity in action.
 
-##### This document was created in close coorporation with ChatGPT 4o
+##### *This document was created in close coorporation with ChatGPT 4o
